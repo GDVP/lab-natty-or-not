@@ -2,40 +2,34 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
 ### Objetivos
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+1. **Explorar IAs Generativas**: Este simples projeto tem o objetivo de atender ao Projeto solicitado para conclusão de etapa do curso sobre 'IA Generativa com Microsoft Copilot'. A ideia é criar conteúdos de qualquer forma que sejam o mais realista possível, de forma que seja difícil diferenciar se foram criados por IA ou por pessoa. Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso.
+   
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Humano ou IA?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Dentro do escopo do Desafio do projeto, optei por criar algo simples, pois acredito que na simplicidade está a maior dificuldade ou quase impossibilidade em distinguir se foi humano ou IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (OpenAI)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt com pedido de criação de mensagem de felicitação de aniversário. Sem adicionar características que pudessem tornar a mensagem formal demais ou complexa demais, o que facilitaria 'entregar' que foi criado por IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Que o seu novo ciclo seja repleto de saúde, alegria e conquistas, e que cada dia traga motivos para sorrir e celebrar a vida. Feliz aniversário! 🎉✨"
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+E ai, no dia a dia, se recebesse mensagens simples como essa em redes sociais, conseguiria diferenciar?
 ```
 
 ### Exemplos e Insigths
