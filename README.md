@@ -1,10 +1,8 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty?
 
 ## 🚀 Introdução
 
-
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 "Natural ou Fake Natty?" - Desafio de Projeto de Curso sobre IA Generativa 💪🤓
 
 ### Objetivos
 
